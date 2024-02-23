@@ -1,0 +1,11 @@
+color a
+msg %username% RNZ Plus Loading...
+color a
+tree
+tree
+color b
+tree
+color a
+tree
+msg %username% RNZ Plus has been Actived
+exit
